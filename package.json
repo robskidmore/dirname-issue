@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "lodash.set": "^4.3.2",
+    "next": "^9.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
